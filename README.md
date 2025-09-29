@@ -1,17 +1,22 @@
 <h2>Hello World,I'm Fatemeh Mehrani Nejad <img src="https://github.com/mehraninejad/mehraninejad/blob/main/37b19e0db4e3901614d6cf2c86f93b0a-removebg-preview.png?raw=true" width = "50"</h2>
 
-<h2 align="center"><img src="https://github.com/mehraninejad/mehraninejad/blob/main/6e4c411c9c1a3843af3d402e03a966ad-removebg-preview.png?raw=true" width = "500"</h2> 
-<!--
-**mehraninejad/mehraninejad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"><img src="https://github.com/mehraninejad/mehraninejad/blob/main/6e4c411c9c1a3843af3d402e03a966ad-removebg-preview.png?raw=true" width = "500"</h2>
+  
+### A Little more about me...
+  ``` python
+class AboutMe:
+    def init(self):
+        self.name = "Fatemeh Mehrani Nejad"
+        self.role = "Beginner Programmer👩🏽‍💻"
+        self.me = "Computer Engineering student, curious and always learning"
+        self.skills = {"languages":["python","C","c++"],
+                        "tools":["VsCode","Git and GitHub"],
+                        "interests": ["Web Development 💻", "AI 🤖", "Problem Solving 🧩"]
+                      }
+        self.current_focus = "Learning Artificial Intelligence & improving problem-solving"
 
-Here are some ideas to get you started:
+me = AboutMe()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+

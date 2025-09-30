@@ -22,7 +22,10 @@ me = AboutMe()
   <img src="https://github.com/mehraninejad/mehraninejad/blob/main/715b59c8c7545d9dafb1a04111edde40-removebg-preview.png?raw=true" width="36" height="36" alt="C">
   <img src="https://github.com/mehraninejad/mehraninejad/blob/main/05974a4d1da1deac6470d2e87aa8c101-removebg-preview.png?raw=true" width="36" height="36" alt="C">
   <img src="https://github.com/mehraninejad/mehraninejad/blob/main/856e4546b8c202dda03e97771f76f902-removebg-preview.png?raw=true" width="36" height="36" alt="C">
-  <img src="https://github.com/mehraninejad/mehraninejad/blob/main/715b59c8c7545d9dafb1a04111edde40-removebg-preview.png?raw=true" width="36" height="36" alt="C">
+  <img src="https://github.com/mehraninejad/mehraninejad/blob/main/5957d5d2add59c74dd1de4e7d0e588e3-removebg-preview.png?raw=true" width="36" height="36" alt="C">
 </p>
 
+<a href>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehraninejad&show_icons=true&theme=radical"
+</a>
 

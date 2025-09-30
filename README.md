@@ -25,3 +25,10 @@ me = AboutMe()
   <img src="https://github.com/mehraninejad/mehraninejad/blob/main/5957d5d2add59c74dd1de4e7d0e588e3-removebg-preview.png?raw=true" width="36" height="36" alt="C">
 </p>
 
+
+<h2>⚡&nbsp; GitHub Stats</h2>
+<a href="https://github.com/mehraninejad">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehraninejad&show_icons=true&theme=radical">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehraninejad">
+</a>

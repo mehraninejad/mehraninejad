@@ -20,7 +20,7 @@ me = AboutMe()
 <h3>Skills<h3>
 <p>
   <img src="https://github.com/mehraninejad/mehraninejad/blob/main/715b59c8c7545d9dafb1a04111edde40-removebg-preview.png?raw=true" width="36" height="36" alt="C">
-  <img src="https://github.com/mehraninejad/mehraninejad/blob/main/715b59c8c7545d9dafb1a04111edde40-removebg-preview.png?raw=true" width="36" height="36" alt="C">
+  <img src="https://github.com/mehraninejad/mehraninejad/blob/main/05974a4d1da1deac6470d2e87aa8c101-removebg-preview.png?raw=true" width="36" height="36" alt="C">
   <img src="https://github.com/mehraninejad/mehraninejad/blob/main/715b59c8c7545d9dafb1a04111edde40-removebg-preview.png?raw=true" width="36" height="36" alt="C">
   <img src="https://github.com/mehraninejad/mehraninejad/blob/main/715b59c8c7545d9dafb1a04111edde40-removebg-preview.png?raw=true" width="36" height="36" alt="C">
 </p>

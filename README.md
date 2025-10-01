@@ -34,7 +34,7 @@ me = AboutMe()
 
 <h2>⚡&nbsp; GitHub Stats</h2>
 <a href="https://github.com/mehraninejad">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehraninejad&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehraninejad&show_icons=true&theme=radical&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehraninejad">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehraninejad&layout=compact&theme=radical&cache_seconds=1800">
 </a>

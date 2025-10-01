@@ -7,6 +7,8 @@
 class AboutMe:
     def init(self):
         self.name = "Fatemeh Mehrani Nejad"
+        self.birthda = "2006 july 13 , Thursday"
+        self.hobbies = ["podcast", "book", "cycling", "drawing"]
         self.role = "Beginner Programmer👩🏽‍💻"
         self.me = "Computer Engineering student, curious and always learning"
         self.skills = {"languages":["python","C","c++"],

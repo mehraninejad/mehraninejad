@@ -5,10 +5,10 @@
 ### A Little more about me...
   ``` python
 class AboutMe:
-    def init(self):
+    def __init__(self):
         self.name = "Fatemeh Mehrani Nejad"
-        self.birthda = "2006 july 13 , Thursday"
-        self.hobbies = ["podcast", "book", "cycling", "drawing"]
+        self.birthday = "2006 july 13 , Thursday"
+        self.hobbies = ["Podcast🎧", "Reading 📚", "Cycling 🚴‍♀️", "ِDrawing🎨"]
         self.role = "Beginner Programmer👩🏽‍💻"
         self.me = "Computer Engineering student, curious and always learning"
         self.skills = {"languages":["python","C","c++"],

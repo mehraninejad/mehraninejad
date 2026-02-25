@@ -5,7 +5,7 @@
 ### A Little more about me...
   ``` python
 class AboutMe:
-    def __init__(self):
+    def__init__(self):
         self.name = "Fatemeh Mehrani Nejad"
         self.birthday = "2006 july 13 , Thursday"
         self.hobbies = ["Podcast🎧", "Reading 📚", "Cycling 🚴‍♀️", "ِDrawing🎨"]
